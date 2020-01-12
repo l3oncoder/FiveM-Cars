@@ -3,7 +3,7 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>802_DB11_modkit</kitName>
+      <kitName>802_db11_modkit</kitName>
       <id value="802" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
